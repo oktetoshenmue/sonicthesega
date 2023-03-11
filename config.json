@@ -12,7 +12,7 @@
 			"settings": {
 				"clients": [
 					{
-						"id": "UUID",
+						"id": "a83ab475-1804-48ae-8623-e2c43f64e406",
 						"alterId": 0
 					}
 				]
@@ -31,7 +31,7 @@
 			"settings": {
 				"clients": [
 					{
-						"id": "UUID"
+						"id": "a83ab475-1804-48ae-8623-e2c43f64e406"
 					}
 				],
 				"decryption": "none"
@@ -50,7 +50,7 @@
 			"settings": {
 				"clients": [
 					{
-						"password": "UUID"
+						"password": "a83ab475-1804-48ae-8623-e2c43f64e406"
 					}
 				],
 				"decryption": "none"
@@ -70,7 +70,7 @@
 				"clients": [
 					{
 						"method": "chacha20-ietf-poly1305",
-						"password": "UUID"
+						"password": "a83ab475-1804-48ae-8623-e2c43f64e406"
 					}
 				],
 				"decryption": "none"
